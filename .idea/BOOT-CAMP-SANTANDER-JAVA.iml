@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Java/Java-Basico" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Java/Java-Poo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Spring-boot" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/out" isTestSource="false" generated="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

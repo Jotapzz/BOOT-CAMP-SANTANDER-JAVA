@@ -21,5 +21,6 @@ public class Main {
             System.out.printf("Olá %s você tem %d anos!",nome,idade);
         }
 
+        input.close();
     }
 }
