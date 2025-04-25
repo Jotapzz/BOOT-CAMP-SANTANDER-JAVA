@@ -2,7 +2,7 @@ package DesafioBasico;
 
 import java.util.Scanner;
 
-public class Main {
+public class Dados {
     public static void main(String[] args) {
         //Instanciando o Objeto que vai ler nossos Dados
         Scanner input = new Scanner(System.in);
